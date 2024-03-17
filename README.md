@@ -1,6 +1,7 @@
 # Personal Portfolio Website in React
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="D:\PortFolio\Portfolio React.js\web-dev-projects\personal-portfolio\Screenshot 2024-03-17 150808.png">
+
+<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://github.com/Devendrapatil02/Devendra-Portfolio/assets/96125476/4d7b5c5a-39c0-4e2b-a4b0-b215c57d8cd9">
 
 Built using:
 
